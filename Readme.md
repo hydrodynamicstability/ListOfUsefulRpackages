@@ -1,6 +1,8 @@
 List of Useful R Packages
 ====================================
 
+This is just a list of R packages I have found useful or interesting.
+
 agRee
 
 beeswarm
@@ -40,6 +42,8 @@ faraway
 formatR
 
 fortunes
+
+gbm
 
 gdata
 
