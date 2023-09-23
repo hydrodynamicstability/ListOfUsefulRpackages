@@ -15,9 +15,15 @@ binom
 
 boot
 
+car
+
 cg
 
+chron
+
 combinat
+
+constants
 
 DAAG
 
@@ -85,6 +91,8 @@ markdown
 
 MASS
 
+metRology
+
 mlbench
 
 mratios
@@ -106,6 +114,8 @@ plyr
 polspline
 
 pROC
+
+PropCIs
 
 quadprog
 
@@ -130,6 +140,8 @@ SemiPar
 shiny
 
 survival
+
+survRM2
 
 tibble
 
