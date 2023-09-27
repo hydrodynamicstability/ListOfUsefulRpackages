@@ -123,6 +123,8 @@ quantreg
 
 randomForest
 
+ratesci
+
 RColorBrewer
 
 reshape2
