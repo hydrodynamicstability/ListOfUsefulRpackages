@@ -29,6 +29,8 @@ DAAG
 
 data.table
 
+DescTools
+
 devtools
 
 dplyr
