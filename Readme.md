@@ -73,6 +73,8 @@ Hmisc
 
 irr
 
+kableExtra
+
 KernSmooth
 
 knitr
