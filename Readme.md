@@ -3,6 +3,8 @@ List of Useful R Packages
 
 This is just a list of R packages I have found useful or interesting.
 
+AER
+
 agRee
 
 beeswarm
@@ -56,6 +58,8 @@ gbm
 gdata
 
 ggbeeswarm
+
+ggnewscale
 
 ggparallel
 
