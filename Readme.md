@@ -149,6 +149,8 @@ SemiPar
 
 shiny
 
+spmodel
+
 survival
 
 survRM2
