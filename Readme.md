@@ -49,6 +49,8 @@ exactci
 
 faraway
 
+flextable
+
 formatR
 
 fortunes
